@@ -26,4 +26,9 @@
   - sync
     - [wkyd_dbshow](https://github.com/Fdudurun/wkyd_dbshow)  
     - [wsn_db_filter_server](https://github.com/Fdudurun/wsn_db_filter_server)  
-    - [wdn](https://github.com/Fdudurun/wdn) [optional: wkyd本地加载数据id模块]  
+    - [wdn](https://github.com/Fdudurun/wdn) [optional: wkyd本地加载数据id模块]
+
+## 变异
++ 地图阅读
+  - [dbshow_linkschool](https://github.com/Fdudurun/dbshow_linkschool)
+  - [wdn_linkschool](https://github.com/Fdudurun/wdn_linkschool)
