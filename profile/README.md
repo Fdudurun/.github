@@ -1,6 +1,4 @@
 # 不止是弗杜伦
-# 快速导航
-
 # 弗杜伦
 ## 主
 + 一阶
@@ -37,4 +35,12 @@
 
 # SportRun
 ## 逆向
-[FSportRun](https://github.com/Fdudurun/FSportRun)
++ [FSportRun](https://github.com/Fdudurun/FSportRun)
++ [SportRun_VMP](https://github.com/Fdudurun/SportRun_VMP)
+
+# 工具集
++ [First](https://github.com/Fdudurun/First)
++ [Gwxapkg](https://github.com/Fdudurun/Gwxapkg)
++ [WMPFDebugger](https://github.com/Fdudurun/WMPFDebugger)
++ [pychaosvm](https://github.com/Fdudurun/pychaosvm)
++ [wxapkg](https://github.com/Fdudurun/wxapkg)
