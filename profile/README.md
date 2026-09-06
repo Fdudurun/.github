@@ -38,6 +38,9 @@
 + [FSportRun](https://github.com/Fdudurun/FSportRun)
 + [SportRun_VMP](https://github.com/Fdudurun/SportRun_VMP)
 
+# 悦跑圈
+ + [ypq](https://github.com/Fdudurun/ypq)
+
 # 工具集
 + [First](https://github.com/Fdudurun/First)
 + [Gwxapkg](https://github.com/Fdudurun/Gwxapkg)
