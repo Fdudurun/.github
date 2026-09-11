@@ -41,6 +41,9 @@
 # 悦跑圈
  + [ypq](https://github.com/Fdudurun/ypq)
 
+# 悦动圈
+ + [ydq](https://github.com/Fdudurun/ydq)
+
 # 工具集
 + [First](https://github.com/Fdudurun/First)
 + [Gwxapkg](https://github.com/Fdudurun/Gwxapkg)
