@@ -44,6 +44,9 @@
 # 悦动圈
  + [ydq](https://github.com/Fdudurun/ydq)
 
+# 咕咚
+ + [咕咚](https://github.com/Fdudurun/gd)
+
 # SportRun
 + [fluedll_reverse](https://github.com/Fdudurun/fluedll_reverse)
 
