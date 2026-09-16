@@ -46,7 +46,8 @@
  + [ydq](https://github.com/Fdudurun/ydq)
 
 # 咕咚
- + [咕咚](https://github.com/Fdudurun/gd)
+ + [咕咚_未完成的](https://github.com/Fdudurun/gd)
+ + [咕咚](https://github.com/Fdudurun/gd_gpt)
 
 # 工具集
 + [First](https://github.com/Fdudurun/First)
